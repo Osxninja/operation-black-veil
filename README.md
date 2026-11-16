@@ -1,7 +1,8 @@
 <div align="center">
 
 <a href="https://osxninja.github.io/operation-black-veil/">
-<img src="operation-black-veil-room-icon.png" alt="Operation Black Veil dossier emblem" width="190" />
+<img src="![Uploading image.png…]()
+" alt="Operation Black Veil dossier emblem" width="190" />
 </a>
 
 # OPERATION BLACK VEIL
